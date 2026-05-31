@@ -27,6 +27,9 @@ target-detection-CV/yolo_split/labels/
 # Base YOLO models
 target-detection-CV/yolov8n.pt
 target-detection-CV/yolov8s.pt
+target-detection-CV/yolo_split/train/
+target-detection-CV/yolo_split/val/
+target-detection-CV/yolo_split/dataset.yaml
 
 # System files
 .DS_Store
