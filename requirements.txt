@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+tqdm
+torch
+torchvision
+pymavlink
+PyYAML
+Pillow
+notebook
+ipykernel

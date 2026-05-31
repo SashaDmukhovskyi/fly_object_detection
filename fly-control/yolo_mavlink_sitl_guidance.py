@@ -10,8 +10,8 @@ from pymavlink import mavutil
 # CONFIG
 # =========================
 
-MODEL_PATH = "models/best.pt"
-VIDEO_PATH = "videos\test_video.avi" 
+MODEL_PATH = "fly-control/models/best.pt"
+VIDEO_PATH = "videos/test_video.avi" 
  
 CONNECTION_STRING = "udp:127.0.0.1:14551"
 
