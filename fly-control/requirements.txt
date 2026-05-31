@@ -1,4 +1,13 @@
 ultralytics
 opencv-python
-pymavlink
 numpy
+pandas
+matplotlib
+tqdm
+torch
+torchvision
+pymavlink
+PyYAML
+Pillow
+notebook
+ipykernel
