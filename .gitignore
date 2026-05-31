@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO training results
+runs/
+*/runs/
+
+# Dataset images and labels
+target-detection-CV/yolo_split/images/
+target-detection-CV/yolo_split/labels/
+
+# Videos
+*.avi
+*.mp4
+*.mov
+*.mkv
+
+# Allow one demo video
+!videos/test_video.avi
+
+# Base YOLO models
+target-detection-CV/yolov8n.pt
+target-detection-CV/yolov8s.pt
+
+# System files
+.DS_Store
+Thumbs.db
